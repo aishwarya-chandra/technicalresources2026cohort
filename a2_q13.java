@@ -11,5 +11,4 @@ public class a2_q13 {
             System.out.println();
         }
     }
-
 }
