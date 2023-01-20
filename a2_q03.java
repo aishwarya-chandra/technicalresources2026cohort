@@ -10,7 +10,5 @@ public class a2_q3 {
             }
             System.out.println();
         }
-
     }
-
 }
